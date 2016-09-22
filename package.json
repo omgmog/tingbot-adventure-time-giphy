@@ -1,0 +1,11 @@
+{
+  "name": "adventure-time-giphy",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Max Glenister <moglenstar@gmail.com>",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "mkdirp": "^0.5.1"
+  }
+}
